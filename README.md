@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bappymm
+- 👋 Hi, I’m @Bappy
 - 👀 I’m interested in learning
 - 🌱 I’m currently practicing advanced data analytics
 <!---
